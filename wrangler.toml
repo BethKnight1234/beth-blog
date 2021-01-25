@@ -1,0 +1,11 @@
+name = "beth-blog"
+type = "webpack"
+account_id = "7ff688ca585430dd5513be30ed859641"
+
+route = "bethknight.codes/*"
+zone_id = "262f636f936c2597312f2da22b33503a"
+
+[site]
+bucket = "./build"
+entry-point = "workers-site"
+
